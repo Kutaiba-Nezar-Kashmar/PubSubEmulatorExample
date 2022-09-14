@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "qWkQd/76tl0GxfGVYRZGy+xvsU2xXCKL+QmL/oXi9/oWddKoL+bDPS4KG0sj0n/DlH6at7Ae0YV8kWs2MdNs5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kunk\\RiderProjects\\PubSubEmulatorExample\\PubSubEmulatorExample\\PubSubEmulatorExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kunk\\.nuget\\packages\\google.api.commonprotos\\2.6.0\\google.api.commonprotos.2.6.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\google.api.gax\\4.0.0\\google.api.gax.4.0.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\google.api.gax.grpc\\4.0.0\\google.api.gax.grpc.4.0.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\google.apis\\1.56.0\\google.apis.1.56.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\google.apis.auth\\1.56.0\\google.apis.auth.1.56.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\google.apis.core\\1.56.0\\google.apis.core.1.56.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\google.cloud.iam.v1\\3.0.0\\google.cloud.iam.v1.3.0.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\google.cloud.pubsub.v1\\3.2.0\\google.cloud.pubsub.v1.3.2.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\google.protobuf\\3.21.0\\google.protobuf.3.21.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\grpc.auth\\2.46.3\\grpc.auth.2.46.3.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\grpc.core.api\\2.46.3\\grpc.core.api.2.46.3.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\grpc.net.client\\2.46.0\\grpc.net.client.2.46.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\grpc.net.common\\2.46.0\\grpc.net.common.2.46.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kunk\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
